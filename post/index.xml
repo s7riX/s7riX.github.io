@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>s7riX Blog</title>
-    <link>http://s7rix.github.io/</link>
-    <description>Recent content on s7riX Blog</description>
+    <title>Posts on s7riX Blog</title>
+    <link>http://s7rix.github.io/post/</link>
+    <description>Recent content in Posts on s7riX Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2020 17:53:54 -0400</lastBuildDate>
     
-	<atom:link href="http://s7rix.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://s7rix.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
