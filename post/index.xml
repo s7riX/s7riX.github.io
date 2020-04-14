@@ -6,10 +6,19 @@
     <description>Recent content in Posts on s7riX Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 17:53:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 19:39:03 -0400</lastBuildDate>
     
 	<atom:link href="http://s7rix.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://s7rix.github.io/post/my-second-post/</link>
+      <pubDate>Mon, 13 Apr 2020 19:39:03 -0400</pubDate>
+      
+      <guid>http://s7rix.github.io/post/my-second-post/</guid>
+      <description>This is my second post </description>
+    </item>
     
     <item>
       <title>My First Post</title>
